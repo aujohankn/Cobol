@@ -105,8 +105,11 @@
        01 STAT-TOP3-SANCTION PIC X(100) VALUE SPACES OCCURS 3 TIMES.
        01 STAT-TOP3-S-MATCH PIC 9(3) VALUE ZEROS OCCURS 3 TIMES.
        01 STAT-FORMAT  PIC X(50) VALUE SPACES.
+       01 STAT-TOTAL-MATCHES PIC 9(4) VALUE ZEROS.
 
        01 SUS-THRESHOLD PIC 9(3)V99 VALUE 066.00.
+
+       01 NUMBER-FORMAT PIC ZZZZZ9.
        
        PROCEDURE DIVISION.
       
@@ -159,6 +162,8 @@
 
        OPEN INPUT CUSTOMER-FILE
        OPEN OUTPUT REPORT-FILE
+
+       DISPLAY "Writing to SanctionReport.txt"
 
        PERFORM UNTIL END-OF-CUSTOMER-FILE = "Y"
            READ CUSTOMER-FILE
@@ -219,6 +224,7 @@
                        END-COMPUTE
     
                        IF PCT-TOTAL >= SUS-THRESHOLD
+                           ADD 1 TO STAT-TOTAL-MATCHES
                            ADD 1 TO S-NO-MATCHES(S-IX)
                            PERFORM COUNT-LAND
                            MOVE SPACES TO REPORT-RECORD
@@ -334,9 +340,79 @@
 
        CLOSE CUSTOMER-FILE
        CLOSE REPORT-FILE
+       DISPLAY "Finished Writing to SanctionReport.txt"
+       DISPLAY "Writing Statistics to SanctionStats.txt"
 
        OPEN OUTPUT STATS-FILE
+
+       MOVE SPACES TO STATS-RECORD
+       MOVE SUS-THRESHOLD TO PCT-FORMAT
+       STRING
+           "Minimum match % for counting as a match: "
+           PCT-FORMAT
+           " %"
+           INTO STATS-RECORD
+       END-STRING
+       WRITE STATS-RECORD
+       MOVE SPACES TO STATS-RECORD
        
+       MOVE STAT-TOTAL-MATCHES TO NUMBER-FORMAT
+       STRING
+           "Total Matches found: "
+           FUNCTION TRIM(NUMBER-FORMAT)
+           INTO STATS-RECORD
+       END-STRING
+       WRITE STATS-RECORD
+       MOVE SPACES TO STATS-RECORD
+
+       MOVE "WEIGHTS: " TO STATS-RECORD
+       WRITE STATS-RECORD
+       MOVE SPACES TO STATS-RECORD
+
+       COMPUTE W-NAME = W-NAME / 100
+       COMPUTE W-ALIA = W-ALIA / 100
+       COMPUTE W-BDAY = W-BDAY / 100
+       COMPUTE W-LAND = W-LAND / 100
+
+       MOVE W-NAME TO PCT-FORMAT
+       STRING
+           " - Name:                   "
+           PCT-FORMAT
+           "%, "
+           INTO STATS-RECORD
+       END-STRING
+
+       WRITE STATS-RECORD
+       MOVE SPACES TO STATS-RECORD
+       MOVE W-ALIA TO PCT-FORMAT
+       STRING
+           " - Aliases:                "
+           PCT-FORMAT
+           "%, "
+           INTO STATS-RECORD
+       END-STRING
+       WRITE STATS-RECORD
+       MOVE SPACES TO STATS-RECORD
+       MOVE W-BDAY TO PCT-FORMAT
+       STRING
+           " - Birthday:               "
+           PCT-FORMAT "%, "
+           INTO STATS-RECORD
+       END-STRING
+       WRITE STATS-RECORD
+       MOVE SPACES TO STATS-RECORD
+       MOVE W-LAND TO PCT-FORMAT
+       STRING
+           " - Country of residence:   "
+           PCT-FORMAT "%"
+           INTO STATS-RECORD
+       END-STRING
+       
+       WRITE STATS-RECORD
+       MOVE SPACES TO STATS-RECORD
+
+       WRITE STATS-RECORD
+
        PERFORM SUS-PR-COUNTRY
        
        MOVE SPACES TO STATS-RECORD
@@ -348,7 +424,8 @@
        MOVE STAT-TOP3-MATCH(1) TO PCT-FORMAT
        STRING
            "TOP 1: "
-           STAT-TOP3-CUSTOMER(1) ", "
+           FUNCTION TRIM(STAT-TOP3-CUSTOMER(1))
+           ", "
            PCT-FORMAT "%"
            INTO STATS-RECORD
        END-STRING
@@ -357,7 +434,8 @@
        MOVE STAT-TOP3-MATCH(2) TO PCT-FORMAT
        STRING
            "TOP 2: "
-           STAT-TOP3-CUSTOMER(2) ", "
+           FUNCTION TRIM(STAT-TOP3-CUSTOMER(2))
+           ", "
            PCT-FORMAT "%"
            INTO STATS-RECORD
        END-STRING
@@ -366,7 +444,8 @@
        MOVE STAT-TOP3-MATCH(3) TO PCT-FORMAT
        STRING
            "TOP 3: "
-           STAT-TOP3-CUSTOMER(3) ", "
+           FUNCTION TRIM(STAT-TOP3-CUSTOMER(3))
+           ", "
            PCT-FORMAT "%"
            INTO STATS-RECORD
        END-STRING
@@ -384,26 +463,35 @@
        MOVE "TOP 3 SANKTIONSPOSTER MATCHES" TO STATS-RECORD
        WRITE STATS-RECORD
        MOVE SPACES TO STATS-RECORD
+       MOVE STAT-TOP3-S-MATCH(1) TO NUMBER-FORMAT
        STRING
            "TOP 1: "
-           STAT-TOP3-SANCTION(1) ", "
-           STAT-TOP3-S-MATCH(1)
+           FUNCTION TRIM(STAT-TOP3-SANCTION(1))
+           ", "
+           FUNCTION TRIM(NUMBER-FORMAT)
+           " matches"
            INTO STATS-RECORD
        END-STRING
        WRITE STATS-RECORD
        MOVE SPACES TO STATS-RECORD
+       MOVE STAT-TOP3-S-MATCH(2) TO NUMBER-FORMAT
        STRING
            "TOP 2: "
-           STAT-TOP3-SANCTION(2) ", "
-           STAT-TOP3-S-MATCH(2)
+           FUNCTION TRIM(STAT-TOP3-SANCTION(2))
+           ", "
+           FUNCTION TRIM(NUMBER-FORMAT)
+           " matches"
            INTO STATS-RECORD
        END-STRING
        WRITE STATS-RECORD
        MOVE SPACES TO STATS-RECORD
+       MOVE STAT-TOP3-S-MATCH(3) TO NUMBER-FORMAT
        STRING
            "TOP 3: "
-           STAT-TOP3-SANCTION(3) ", "
-           STAT-TOP3-S-MATCH(3)
+           FUNCTION TRIM(STAT-TOP3-SANCTION(3))
+           ", "
+           FUNCTION TRIM(NUMBER-FORMAT)
+           " matches"
            INTO STATS-RECORD
        END-STRING
        WRITE STATS-RECORD
@@ -491,84 +579,94 @@
 
        SUS-PR-COUNTRY.
            MOVE SPACES TO STATS-RECORD
-       MOVE "Sus kunder pr. Land" TO STATS-RECORD
+       MOVE "Suspicious customers pr Country" TO STATS-RECORD
        WRITE STATS-RECORD
        MOVE SPACES TO STATS-RECORD
+       MOVE STAT-S-LAND(1) TO NUMBER-FORMAT
        STRING
            "DK: "
-           STAT-S-LAND(1)
+           FUNCTION TRIM(NUMBER-FORMAT)
            INTO STATS-RECORD
        END-STRING
        WRITE STATS-RECORD
        MOVE SPACES TO STATS-RECORD
        
+       MOVE STAT-S-LAND(2) TO NUMBER-FORMAT
        STRING
            "US: "
-           STAT-S-LAND(2)
+           FUNCTION TRIM(NUMBER-FORMAT)
            INTO STATS-RECORD
        END-STRING
        WRITE STATS-RECORD
        MOVE SPACES TO STATS-RECORD
-
+       
+       MOVE STAT-S-LAND(3) TO NUMBER-FORMAT
        STRING
            "GB: "
-           STAT-S-LAND(3)
+           FUNCTION TRIM(NUMBER-FORMAT)
            INTO STATS-RECORD
        END-STRING
        WRITE STATS-RECORD
        MOVE SPACES TO STATS-RECORD
-
+       
+       MOVE STAT-S-LAND(4) TO NUMBER-FORMAT
        STRING
            "DE: "
-           STAT-S-LAND(4)
+           FUNCTION TRIM(NUMBER-FORMAT)
            INTO STATS-RECORD
        END-STRING
        WRITE STATS-RECORD
        MOVE SPACES TO STATS-RECORD
-
+       
+       MOVE STAT-S-LAND(5) TO NUMBER-FORMAT
        STRING
            "FR: "
-           STAT-S-LAND(5)
+           FUNCTION TRIM(NUMBER-FORMAT)
            INTO STATS-RECORD
        END-STRING
        WRITE STATS-RECORD
        MOVE SPACES TO STATS-RECORD
 
+       MOVE STAT-S-LAND(6) TO NUMBER-FORMAT
        STRING
            "ES: "
-           STAT-S-LAND(6)
+           FUNCTION TRIM(NUMBER-FORMAT)
            INTO STATS-RECORD
        END-STRING
        WRITE STATS-RECORD
        MOVE SPACES TO STATS-RECORD
 
+       MOVE STAT-S-LAND(7) TO NUMBER-FORMAT
        STRING
            "SE: "
-           STAT-S-LAND(7)
+           FUNCTION TRIM(NUMBER-FORMAT)
            INTO STATS-RECORD
        END-STRING
        WRITE STATS-RECORD
        MOVE SPACES TO STATS-RECORD
 
+       MOVE STAT-S-LAND(8) TO NUMBER-FORMAT
        STRING
            "NO: "
-           STAT-S-LAND(8)
+           FUNCTION TRIM(NUMBER-FORMAT)
            INTO STATS-RECORD
        END-STRING
        WRITE STATS-RECORD
        MOVE SPACES TO STATS-RECORD
 
+       MOVE STAT-S-LAND(9) TO NUMBER-FORMAT
        STRING
            "IT: "
-           STAT-S-LAND(9)
+           FUNCTION TRIM(NUMBER-FORMAT)
            INTO STATS-RECORD
        END-STRING
        WRITE STATS-RECORD
        MOVE SPACES TO STATS-RECORD
 
+       MOVE STAT-S-LAND(10) TO NUMBER-FORMAT
        STRING
            "CA: "
-           STAT-S-LAND(10)
+           FUNCTION TRIM(NUMBER-FORMAT)
            INTO STATS-RECORD
        END-STRING
        WRITE STATS-RECORD
@@ -624,8 +722,6 @@
                    S-IX
                    ", "
                    S-ALIASES(S-IX, 1)
-                   ", "
-                   S-NO-MATCHES(S-IX)
                    INTO STAT-TOP3-SANCTION(1)
                END-STRING
            ELSE
@@ -637,8 +733,6 @@
                        S-IX
                        ", "
                        S-ALIASES(S-IX, 1)
-                       ", "
-                       S-NO-MATCHES(S-IX)
                        INTO STAT-TOP3-SANCTION(2)
                    END-STRING
                ELSE
@@ -648,8 +742,6 @@
                            S-IX
                            ", "
                            S-ALIASES(S-IX, 1)
-                           ", "
-                           S-NO-MATCHES(S-IX)
                            INTO STAT-TOP3-SANCTION(3)
                        END-STRING
                    END-IF
