@@ -1,0 +1,21 @@
+Sus kunder pr. Land
+DK: 015
+US: 012
+GB: 013
+DE: 012
+FR: 014
+ES: 015
+SE: 014
+NO: 013
+IT: 009
+CA: 016
+
+TOP 3 SUS KUNDER
+TOP 1: 010895-5557, Olivia Johnson   ,  76.42%
+TOP 2: 121162-3779, Olivia Johnson   ,  74.19%
+TOP 3: 131189-8264, Olivia Johnson   ,  73.92%
+
+TOP 3 SANKTIONSPOSTER MATCHES
+TOP 1: 0095, Alicia Smith        , 007
+TOP 2: 0015, Olivia Johnson      , 004
+TOP 3: 0033, Benjamin Moore      , 004

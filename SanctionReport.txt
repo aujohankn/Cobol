@@ -1,0 +1,1996 @@
+Kunde: Amelia Thomas
+Foedselsdag: 110276
+Adresse: Rosenvej 3, FR
+
+Match fundet med:
+Amelia Thomas, 110275
+Antal Aliaser: 5, Bedste alias: Ali Smith, Bedste alias match-procent:  30.76 %
+
+Navn Match: 100.00 %
+Alias Match:  18.43 %
+Foedselsdag Match:  83.33 %
+Land Match:   0.00 %
+Total Match:  67.10 %
+------------------------------------------------------------------------------------
+
+Kunde: Alice Smith
+Foedselsdag: 110755
+Adresse: Norregade 2, DK
+
+Match fundet med:
+Alicia Smith, 110275
+Antal Aliaser: 2, Bedste alias: John Smith, Bedste alias match-procent:  54.54 %
+
+Navn Match:  81.81 %
+Alias Match:  36.36 %
+Foedselsdag Match:  66.66 %
+Land Match: 100.00 %
+Total Match:  69.99 %
+------------------------------------------------------------------------------------
+
+Kunde: Charlotte Taylor
+Foedselsdag: 140769
+Adresse: Maple Avenue 89, US
+
+Match fundet med:
+Charlotte Taylor, 041265
+Antal Aliaser: 3, Bedste alias: Mickey, Bedste alias match-procent:  12.50 %
+
+Navn Match: 100.00 %
+Alias Match:  12.48 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  68.11 %
+------------------------------------------------------------------------------------
+
+Kunde: Alexander Wilson
+Foedselsdag: 050566
+Adresse: Vestergade 15, DK
+
+Match fundet med:
+Alexander Wilson, 041265
+Antal Aliaser: 1, Bedste alias: J. Doe, Bedste alias match-procent:  12.50 %
+
+Navn Match: 100.00 %
+Alias Match:  12.50 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  68.12 %
+------------------------------------------------------------------------------------
+
+Kunde: Benjamin Moore
+Foedselsdag: 180288
+Adresse: Maple Avenue 89, GB
+
+Match fundet med:
+Benjamin Moore, 061885
+Antal Aliaser: 1, Bedste alias: Jon D., Bedste alias match-procent:  14.28 %
+
+Navn Match: 100.00 %
+Alias Match:  14.28 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  66.06 %
+------------------------------------------------------------------------------------
+
+Kunde: Alice Smith
+Foedselsdag: 250160
+Adresse: Elm Street 5, FR
+
+Match fundet med:
+Alicia Smith, 022593
+Antal Aliaser: 1, Bedste alias: Alicia Smith, Bedste alias match-procent:  81.81 %
+
+Navn Match:  81.81 %
+Alias Match:  81.81 %
+Foedselsdag Match:   0.00 %
+Land Match: 100.00 %
+Total Match:  71.35 %
+------------------------------------------------------------------------------------
+
+Kunde: Amelia Thomas
+Foedselsdag: 260988
+Adresse: Skovbakken 7, US
+
+Match fundet med:
+Amelia Thomas, 110275
+Antal Aliaser: 5, Bedste alias: Ali Smith, Bedste alias match-procent:  30.76 %
+
+Navn Match: 100.00 %
+Alias Match:  18.43 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  67.10 %
+------------------------------------------------------------------------------------
+
+Kunde: Olivia Johnson
+Foedselsdag: 010895
+Adresse: Elm Street 5, DK
+
+Match fundet med:
+Olivia Johnson, 061885
+Antal Aliaser: 1, Bedste alias: A. Jensen, Bedste alias match-procent:  35.71 %
+
+Navn Match: 100.00 %
+Alias Match:  35.71 %
+Foedselsdag Match:  50.00 %
+Land Match: 100.00 %
+Total Match:  76.42 %
+------------------------------------------------------------------------------------
+
+Kunde: Benjamin Moore
+Foedselsdag: 220893
+Adresse: Rosenvej 3, DE
+
+Match fundet med:
+Benjamin Moore, 022593
+Antal Aliaser: 1, Bedste alias: John S., Bedste alias match-procent:  14.28 %
+
+Navn Match: 100.00 %
+Alias Match:  14.28 %
+Foedselsdag Match:  50.00 %
+Land Match:  50.00 %
+Total Match:  66.07 %
+------------------------------------------------------------------------------------
+
+Kunde: Mia Lewis
+Foedselsdag: 200852
+Adresse: Maple Avenue 89, FR
+
+Match fundet med:
+Mia Lewis, 092982
+Antal Aliaser: 3, Bedste alias: Mike, Bedste alias match-procent:  33.33 %
+
+Navn Match: 100.00 %
+Alias Match:  22.22 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  68.05 %
+------------------------------------------------------------------------------------
+
+Kunde: Sophia Davis
+Foedselsdag: 180758
+Adresse: Norregade 2, DE
+
+Match fundet med:
+Sophia Davis, 111178
+Antal Aliaser: 4, Bedste alias: Jon D., Bedste alias match-procent:  25.00 %
+
+Navn Match: 100.00 %
+Alias Match:  14.57 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  68.64 %
+------------------------------------------------------------------------------------
+
+Kunde: Olivia Johnson
+Foedselsdag: 061057
+Adresse: Norregade 2, IT
+
+Match fundet med:
+Olivia Johnson, 061885
+Antal Aliaser: 1, Bedste alias: A. Jensen, Bedste alias match-procent:  35.71 %
+
+Navn Match: 100.00 %
+Alias Match:  35.71 %
+Foedselsdag Match:  50.00 %
+Land Match:   0.00 %
+Total Match:  66.42 %
+------------------------------------------------------------------------------------
+
+Kunde: Jacob Hall
+Foedselsdag: 150172
+Adresse: Maple Avenue 89, DE
+
+Match fundet med:
+Jacob Hall, 100377
+Antal Aliaser: 2, Bedste alias: Johnny, Bedste alias match-procent:  20.00 %
+
+Navn Match: 100.00 %
+Alias Match:  15.00 %
+Foedselsdag Match:  50.00 %
+Land Match:  50.00 %
+Total Match:  66.25 %
+------------------------------------------------------------------------------------
+
+Kunde: Charlotte Taylor
+Foedselsdag: 030181
+Adresse: Maple Avenue 89, SE
+
+Match fundet med:
+Charlotte Taylor, 051580
+Antal Aliaser: 4, Bedste alias: Annie J., Bedste alias match-procent:  12.50 %
+
+Navn Match: 100.00 %
+Alias Match:   7.80 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  66.94 %
+------------------------------------------------------------------------------------
+
+Kunde: Benjamin Moore
+Foedselsdag: 171298
+Adresse: Rosenvej 3, ES
+
+Match fundet med:
+Benjamin Moore, 111178
+Antal Aliaser: 2, Bedste alias: J. Doe, Bedste alias match-procent:  21.42 %
+
+Navn Match: 100.00 %
+Alias Match:  14.28 %
+Foedselsdag Match:  50.00 %
+Land Match:  50.00 %
+Total Match:  66.07 %
+------------------------------------------------------------------------------------
+
+Kunde: Grace Walker
+Foedselsdag: 141062
+Adresse: Birkevej 7, NO
+
+Match fundet med:
+Grace Walker, 111178
+Antal Aliaser: 1, Bedste alias: Jonathan Doe, Bedste alias match-procent:   8.33 %
+
+Navn Match: 100.00 %
+Alias Match:   8.33 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  67.08 %
+------------------------------------------------------------------------------------
+
+Kunde: Olivia Johnson
+Foedselsdag: 121162
+Adresse: Sondergade 10, GB
+
+Match fundet med:
+Olivia Johnson, 111178
+Antal Aliaser: 4, Bedste alias: A. Jensen, Bedste alias match-procent:  35.71 %
+
+Navn Match: 100.00 %
+Alias Match:  26.76 %
+Foedselsdag Match:  50.00 %
+Land Match: 100.00 %
+Total Match:  74.19 %
+------------------------------------------------------------------------------------
+
+Kunde: Alice Smith
+Foedselsdag: 231184
+Adresse: Strandvejen 45, NO
+
+Match fundet med:
+Alicia Smith, 032292
+Antal Aliaser: 4, Bedste alias: Ali Smith, Bedste alias match-procent:  81.81 %
+
+Navn Match:  81.81 %
+Alias Match:  52.25 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  66.46 %
+------------------------------------------------------------------------------------
+
+Kunde: Lucas Rodriguez
+Foedselsdag: 071272
+Adresse: Maple Avenue 89, FR
+
+Match fundet med:
+Lucas Rodriguez, 061885
+Antal Aliaser: 4, Bedste alias: Alicia Smith, Bedste alias match-procent:  13.33 %
+
+Navn Match: 100.00 %
+Alias Match:   9.98 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  67.49 %
+------------------------------------------------------------------------------------
+
+Kunde: Lucas Rodriguez
+Foedselsdag: 071272
+Adresse: Maple Avenue 89, FR
+
+Match fundet med:
+Lucas Rodriguez, 110275
+Antal Aliaser: 5, Bedste alias: Lisa Smith, Bedste alias match-procent:  26.66 %
+
+Navn Match: 100.00 %
+Alias Match:  11.98 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  67.99 %
+------------------------------------------------------------------------------------
+
+Kunde: William Brown
+Foedselsdag: 180990
+Adresse: Hovedgaden 12, DE
+
+Match fundet med:
+William Brown, 051580
+Antal Aliaser: 4, Bedste alias: Alicia Smith, Bedste alias match-procent:  23.07 %
+
+Navn Match: 100.00 %
+Alias Match:  15.36 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  66.33 %
+------------------------------------------------------------------------------------
+
+Kunde: Jacob Hall
+Foedselsdag: 180286
+Adresse: Sondergade 10, GB
+
+Match fundet med:
+Jacob Hall, 110275
+Antal Aliaser: 2, Bedste alias: Johnny, Bedste alias match-procent:  20.00 %
+
+Navn Match: 100.00 %
+Alias Match:  10.00 %
+Foedselsdag Match:  50.00 %
+Land Match: 100.00 %
+Total Match:  70.00 %
+------------------------------------------------------------------------------------
+
+Kunde: Jacob Hall
+Foedselsdag: 220298
+Adresse: Skovbakken 7, SE
+
+Match fundet med:
+Jacob Hall, 022593
+Antal Aliaser: 2, Bedste alias: J. Doe, Bedste alias match-procent:  20.00 %
+
+Navn Match: 100.00 %
+Alias Match:  10.00 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  67.49 %
+------------------------------------------------------------------------------------
+
+Kunde: Benjamin Moore
+Foedselsdag: 111269
+Adresse: Birkevej 7, DK
+
+Match fundet med:
+Benjamin Moore, 022593
+Antal Aliaser: 1, Bedste alias: John S., Bedste alias match-procent:  14.28 %
+
+Navn Match: 100.00 %
+Alias Match:  14.28 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  66.06 %
+------------------------------------------------------------------------------------
+
+Kunde: Alice Smith
+Foedselsdag: 190595
+Adresse: Skovbakken 7, US
+
+Match fundet med:
+Alicia Smith, 022593
+Antal Aliaser: 1, Bedste alias: Alicia Smith, Bedste alias match-procent:  81.81 %
+
+Navn Match:  81.81 %
+Alias Match:  81.81 %
+Foedselsdag Match:  33.33 %
+Land Match:   0.00 %
+Total Match:  66.35 %
+------------------------------------------------------------------------------------
+
+Kunde: Benjamin Moore
+Foedselsdag: 150474
+Adresse: Enghave 34, US
+
+Match fundet med:
+Benjamin Moore, 111178
+Antal Aliaser: 2, Bedste alias: J. Doe, Bedste alias match-procent:  21.42 %
+
+Navn Match: 100.00 %
+Alias Match:  14.28 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  68.56 %
+------------------------------------------------------------------------------------
+
+Kunde: Lucas Miller
+Foedselsdag: 100556
+Adresse: Elm Street 5, ES
+
+Match fundet med:
+Lucas Miller, 100377
+Antal Aliaser: 4, Bedste alias: Mickey, Bedste alias match-procent:  25.00 %
+
+Navn Match: 100.00 %
+Alias Match:  14.57 %
+Foedselsdag Match:  50.00 %
+Land Match: 100.00 %
+Total Match:  71.14 %
+------------------------------------------------------------------------------------
+
+Kunde: Alice Smith
+Foedselsdag: 091076
+Adresse: Maple Avenue 89, US
+
+Match fundet med:
+Alicia Smith, 061885
+Antal Aliaser: 4, Bedste alias: Ali Smith, Bedste alias match-procent:  81.81 %
+
+Navn Match:  81.81 %
+Alias Match:  49.97 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  68.39 %
+------------------------------------------------------------------------------------
+
+Kunde: Alexander Wilson
+Foedselsdag: 281295
+Adresse: Norregade 2, DK
+
+Match fundet med:
+Alexander Wilson, 041265
+Antal Aliaser: 1, Bedste alias: J. Doe, Bedste alias match-procent:  12.50 %
+
+Navn Match: 100.00 %
+Alias Match:  12.50 %
+Foedselsdag Match:  50.00 %
+Land Match: 100.00 %
+Total Match:  70.62 %
+------------------------------------------------------------------------------------
+
+Kunde: Michael Nielsen
+Foedselsdag: 171283
+Adresse: Norregade 2, NO
+
+Match fundet med:
+Michael Nilsen, 071590
+Antal Aliaser: 2, Bedste alias: Michael N., Bedste alias match-procent:  60.00 %
+
+Navn Match:  93.33 %
+Alias Match:  36.66 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  70.82 %
+------------------------------------------------------------------------------------
+
+Kunde: Alice Smith
+Foedselsdag: 161250
+Adresse: Birkevej 7, SE
+
+Match fundet med:
+Alicia Smith, 111178
+Antal Aliaser: 4, Bedste alias: Alice S., Bedste alias match-procent:  63.63 %
+
+Navn Match:  81.81 %
+Alias Match:  40.88 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  66.12 %
+------------------------------------------------------------------------------------
+
+Kunde: Sophia Davis
+Foedselsdag: 081162
+Adresse: Enghave 34, IT
+
+Match fundet med:
+Sophia Davis, 071590
+Antal Aliaser: 2, Bedste alias: Alicia Smith, Bedste alias match-procent:  25.00 %
+
+Navn Match: 100.00 %
+Alias Match:  12.50 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  68.12 %
+------------------------------------------------------------------------------------
+
+Kunde: Amelia Thomas
+Foedselsdag: 241289
+Adresse: Skovbakken 7, CA
+
+Match fundet med:
+Amelia Thomas, 051580
+Antal Aliaser: 3, Bedste alias: Alice S., Bedste alias match-procent:  23.07 %
+
+Navn Match: 100.00 %
+Alias Match:  10.25 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  67.56 %
+------------------------------------------------------------------------------------
+
+Kunde: Grace Walker
+Foedselsdag: 010886
+Adresse: Elm Street 5, CA
+
+Match fundet med:
+Grace Walker, 051580
+Antal Aliaser: 4, Bedste alias: Mickey, Bedste alias match-procent:  25.00 %
+
+Navn Match: 100.00 %
+Alias Match:  14.57 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  68.64 %
+------------------------------------------------------------------------------------
+
+Kunde: Grace Walker
+Foedselsdag: 010886
+Adresse: Elm Street 5, CA
+
+Match fundet med:
+Grace Walker, 051580
+Antal Aliaser: 2, Bedste alias: Ali Smith, Bedste alias match-procent:   8.33 %
+
+Navn Match: 100.00 %
+Alias Match:   8.32 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  67.07 %
+------------------------------------------------------------------------------------
+
+Kunde: Isabella Clark
+Foedselsdag: 031294
+Adresse: Skovbakken 7, GB
+
+Match fundet med:
+Isabella Clark, 092982
+Antal Aliaser: 1, Bedste alias: John Smith, Bedste alias match-procent:   7.14 %
+
+Navn Match: 100.00 %
+Alias Match:   7.14 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  66.78 %
+------------------------------------------------------------------------------------
+
+Kunde: Olivia Johnson
+Foedselsdag: 131189
+Adresse: Skovbakken 7, DK
+
+Match fundet med:
+Olivia Johnson, 061885
+Antal Aliaser: 1, Bedste alias: A. Jensen, Bedste alias match-procent:  35.71 %
+
+Navn Match: 100.00 %
+Alias Match:  35.71 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  73.92 %
+------------------------------------------------------------------------------------
+
+Kunde: Grace Walker
+Foedselsdag: 030162
+Adresse: Maple Avenue 89, IT
+
+Match fundet med:
+Grace Walker, 041265
+Antal Aliaser: 3, Bedste alias: Annie J., Bedste alias match-procent:  16.66 %
+
+Navn Match: 100.00 %
+Alias Match:   8.32 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  67.07 %
+------------------------------------------------------------------------------------
+
+Kunde: Michael Nielsen
+Foedselsdag: 050252
+Adresse: Birkevej 7, DK
+
+Match fundet med:
+Michael Nilsen, 032292
+Antal Aliaser: 2, Bedste alias: John S., Bedste alias match-procent:  13.33 %
+
+Navn Match:  93.33 %
+Alias Match:   9.99 %
+Foedselsdag Match:  50.00 %
+Land Match: 100.00 %
+Total Match:  66.66 %
+------------------------------------------------------------------------------------
+
+Kunde: Amelia Thomas
+Foedselsdag: 180794
+Adresse: Enghave 34, DE
+
+Match fundet med:
+Amelia Thomas, 100377
+Antal Aliaser: 2, Bedste alias: Ali Smith, Bedste alias match-procent:  30.76 %
+
+Navn Match: 100.00 %
+Alias Match:  19.22 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  69.80 %
+------------------------------------------------------------------------------------
+
+Kunde: William Brown
+Foedselsdag: 181250
+Adresse: Hovedgaden 12, ES
+
+Match fundet med:
+William Brown, 011088
+Antal Aliaser: 2, Bedste alias: Alice S., Bedste alias match-procent:  23.07 %
+
+Navn Match: 100.00 %
+Alias Match:  15.37 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  66.34 %
+------------------------------------------------------------------------------------
+
+Kunde: Olivia Johnson
+Foedselsdag: 150893
+Adresse: Maple Avenue 89, ES
+
+Match fundet med:
+Olivia Johnson, 022593
+Antal Aliaser: 1, Bedste alias: A. Jensen, Bedste alias match-procent:  35.71 %
+
+Navn Match: 100.00 %
+Alias Match:  35.71 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  73.92 %
+------------------------------------------------------------------------------------
+
+Kunde: Amelia Thomas
+Foedselsdag: 010589
+Adresse: Maple Avenue 89, DK
+
+Match fundet med:
+Amelia Thomas, 061885
+Antal Aliaser: 3, Bedste alias: Annie J., Bedste alias match-procent:  23.07 %
+
+Navn Match: 100.00 %
+Alias Match:  17.94 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  69.48 %
+------------------------------------------------------------------------------------
+
+Kunde: Olivia Johnson
+Foedselsdag: 020495
+Adresse: Enghave 34, US
+
+Match fundet med:
+Olivia Johnson, 022593
+Antal Aliaser: 1, Bedste alias: A. Jensen, Bedste alias match-procent:  35.71 %
+
+Navn Match: 100.00 %
+Alias Match:  35.71 %
+Foedselsdag Match:  50.00 %
+Land Match:  50.00 %
+Total Match:  71.42 %
+------------------------------------------------------------------------------------
+
+Kunde: Olivia Johnson
+Foedselsdag: 020495
+Adresse: Enghave 34, US
+
+Match fundet med:
+Olivia Johnson, 061885
+Antal Aliaser: 5, Bedste alias: Alicia Smith, Bedste alias match-procent:  35.71 %
+
+Navn Match: 100.00 %
+Alias Match:  18.54 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  69.63 %
+------------------------------------------------------------------------------------
+
+Kunde: Alice Smith
+Foedselsdag: 090675
+Adresse: Birkevej 7, DK
+
+Match fundet med:
+Alicia Smith, 110275
+Antal Aliaser: 2, Bedste alias: John Smith, Bedste alias match-procent:  54.54 %
+
+Navn Match:  81.81 %
+Alias Match:  36.36 %
+Foedselsdag Match:  50.00 %
+Land Match: 100.00 %
+Total Match:  67.49 %
+------------------------------------------------------------------------------------
+
+Kunde: William Brown
+Foedselsdag: 210485
+Adresse: Enghave 34, DE
+
+Match fundet med:
+William Brown, 051580
+Antal Aliaser: 4, Bedste alias: Alicia Smith, Bedste alias match-procent:  23.07 %
+
+Navn Match: 100.00 %
+Alias Match:  15.36 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  66.33 %
+------------------------------------------------------------------------------------
+
+Kunde: James White
+Foedselsdag: 170471
+Adresse: Skovbakken 7, GB
+
+Match fundet med:
+James White, 111178
+Antal Aliaser: 3, Bedste alias: Mike, Bedste alias match-procent:  18.18 %
+
+Navn Match: 100.00 %
+Alias Match:   9.09 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  67.27 %
+------------------------------------------------------------------------------------
+
+Kunde: James White
+Foedselsdag: 020676
+Adresse: Rosenvej 3, DK
+
+Match fundet med:
+James White, 051580
+Antal Aliaser: 1, Bedste alias: John S., Bedste alias match-procent:  18.18 %
+
+Navn Match: 100.00 %
+Alias Match:  18.18 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  67.04 %
+------------------------------------------------------------------------------------
+
+Kunde: Alice Smith
+Foedselsdag: 020588
+Adresse: Strandvejen 45, SE
+
+Match fundet med:
+Alicia Smith, 022593
+Antal Aliaser: 1, Bedste alias: Alicia Smith, Bedste alias match-procent:  81.81 %
+
+Navn Match:  81.81 %
+Alias Match:  81.81 %
+Foedselsdag Match:  50.00 %
+Land Match:   0.00 %
+Total Match:  68.85 %
+------------------------------------------------------------------------------------
+
+Kunde: Sophia Davis
+Foedselsdag: 031152
+Adresse: Elm Street 5, CA
+
+Match fundet med:
+Sophia Davis, 041265
+Antal Aliaser: 3, Bedste alias: Alicia Smith, Bedste alias match-procent:  25.00 %
+
+Navn Match: 100.00 %
+Alias Match:   8.33 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  67.08 %
+------------------------------------------------------------------------------------
+
+Kunde: Sophia Davis
+Foedselsdag: 031152
+Adresse: Elm Street 5, CA
+
+Match fundet med:
+Sophia Davis, 071495
+Antal Aliaser: 5, Bedste alias: Alicia Smith, Bedste alias match-procent:  25.00 %
+
+Navn Match: 100.00 %
+Alias Match:  11.65 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  67.91 %
+------------------------------------------------------------------------------------
+
+Kunde: Sophia Davis
+Foedselsdag: 031152
+Adresse: Elm Street 5, CA
+
+Match fundet med:
+Sophia Davis, 111178
+Antal Aliaser: 2, Bedste alias: J. Doe, Bedste alias match-procent:  16.66 %
+
+Navn Match: 100.00 %
+Alias Match:  12.49 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  68.12 %
+------------------------------------------------------------------------------------
+
+Kunde: Olivia Johnson
+Foedselsdag: 200377
+Adresse: Vestergade 15, GB
+
+Match fundet med:
+Olivia Johnson, 111178
+Antal Aliaser: 4, Bedste alias: A. Jensen, Bedste alias match-procent:  35.71 %
+
+Navn Match: 100.00 %
+Alias Match:  26.76 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  69.18 %
+------------------------------------------------------------------------------------
+
+Kunde: Sophia Davis
+Foedselsdag: 190591
+Adresse: Sondergade 10, IT
+
+Match fundet med:
+Sophia Davis, 071590
+Antal Aliaser: 2, Bedste alias: Alicia Smith, Bedste alias match-procent:  25.00 %
+
+Navn Match: 100.00 %
+Alias Match:  12.50 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  68.12 %
+------------------------------------------------------------------------------------
+
+Kunde: Grace Walker
+Foedselsdag: 071251
+Adresse: Elm Street 5, CA
+
+Match fundet med:
+Grace Walker, 051580
+Antal Aliaser: 4, Bedste alias: Mickey, Bedste alias match-procent:  25.00 %
+
+Navn Match: 100.00 %
+Alias Match:  14.57 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  68.64 %
+------------------------------------------------------------------------------------
+
+Kunde: Grace Walker
+Foedselsdag: 071251
+Adresse: Elm Street 5, CA
+
+Match fundet med:
+Grace Walker, 051580
+Antal Aliaser: 2, Bedste alias: Ali Smith, Bedste alias match-procent:   8.33 %
+
+Navn Match: 100.00 %
+Alias Match:   8.32 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  67.07 %
+------------------------------------------------------------------------------------
+
+Kunde: Alice Smith
+Foedselsdag: 050574
+Adresse: Hovedgaden 12, IT
+
+Match fundet med:
+Alicia Smith, 022593
+Antal Aliaser: 1, Bedste alias: Alicia Smith, Bedste alias match-procent:  81.81 %
+
+Navn Match:  81.81 %
+Alias Match:  81.81 %
+Foedselsdag Match:  33.33 %
+Land Match:   0.00 %
+Total Match:  66.35 %
+------------------------------------------------------------------------------------
+
+Kunde: Alice Smith
+Foedselsdag: 100453
+Adresse: Parkvej 23, IT
+
+Match fundet med:
+Alicia Smith, 022593
+Antal Aliaser: 1, Bedste alias: Alicia Smith, Bedste alias match-procent:  81.81 %
+
+Navn Match:  81.81 %
+Alias Match:  81.81 %
+Foedselsdag Match:  33.33 %
+Land Match:   0.00 %
+Total Match:  66.35 %
+------------------------------------------------------------------------------------
+
+Kunde: Alice Smith
+Foedselsdag: 070497
+Adresse: Enghave 34, SE
+
+Match fundet med:
+Alicia Smith, 022593
+Antal Aliaser: 1, Bedste alias: Alicia Smith, Bedste alias match-procent:  81.81 %
+
+Navn Match:  81.81 %
+Alias Match:  81.81 %
+Foedselsdag Match:  33.33 %
+Land Match:   0.00 %
+Total Match:  66.35 %
+------------------------------------------------------------------------------------
+
+Kunde: Amelia Thomas
+Foedselsdag: 060365
+Adresse: Strandvejen 45, SE
+
+Match fundet med:
+Amelia Thomas, 071495
+Antal Aliaser: 5, Bedste alias: Lisa Smith, Bedste alias match-procent:  15.38 %
+
+Navn Match: 100.00 %
+Alias Match:   9.19 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  67.29 %
+------------------------------------------------------------------------------------
+
+Kunde: Mia Lewis
+Foedselsdag: 200969
+Adresse: Parkvej 23, NO
+
+Match fundet med:
+Mia Lewis, 032292
+Antal Aliaser: 2, Bedste alias: Mikael, Bedste alias match-procent:  33.33 %
+
+Navn Match: 100.00 %
+Alias Match:  16.66 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  66.66 %
+------------------------------------------------------------------------------------
+
+Kunde: Alice Smith
+Foedselsdag: 140585
+Adresse: Enghave 34, DK
+
+Match fundet med:
+Alicia Smith, 110275
+Antal Aliaser: 2, Bedste alias: John Smith, Bedste alias match-procent:  54.54 %
+
+Navn Match:  81.81 %
+Alias Match:  36.36 %
+Foedselsdag Match:  50.00 %
+Land Match: 100.00 %
+Total Match:  67.49 %
+------------------------------------------------------------------------------------
+
+Kunde: Daniel Martin
+Foedselsdag: 150888
+Adresse: Enghave 34, ES
+
+Match fundet med:
+Daniel Martin, 011088
+Antal Aliaser: 1, Bedste alias: Mickey, Bedste alias match-procent:   7.69 %
+
+Navn Match: 100.00 %
+Alias Match:   7.69 %
+Foedselsdag Match:  50.00 %
+Land Match: 100.00 %
+Total Match:  69.42 %
+------------------------------------------------------------------------------------
+
+Kunde: Lucas Miller
+Foedselsdag: 170560
+Adresse: Rosenvej 3, ES
+
+Match fundet med:
+Lucas Miller, 100377
+Antal Aliaser: 4, Bedste alias: Mickey, Bedste alias match-procent:  25.00 %
+
+Navn Match: 100.00 %
+Alias Match:  14.57 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  68.64 %
+------------------------------------------------------------------------------------
+
+Kunde: Isabella Clark
+Foedselsdag: 160783
+Adresse: Vestergade 15, ES
+
+Match fundet med:
+Isabella Clark, 051580
+Antal Aliaser: 2, Bedste alias: Michael N., Bedste alias match-procent:  14.28 %
+
+Navn Match: 100.00 %
+Alias Match:  14.28 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  66.06 %
+------------------------------------------------------------------------------------
+
+Kunde: Benjamin Moore
+Foedselsdag: 121267
+Adresse: Parkvej 23, GB
+
+Match fundet med:
+Benjamin Moore, 061885
+Antal Aliaser: 1, Bedste alias: Jon D., Bedste alias match-procent:  14.28 %
+
+Navn Match: 100.00 %
+Alias Match:  14.28 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  66.06 %
+------------------------------------------------------------------------------------
+
+Kunde: William Brown
+Foedselsdag: 140254
+Adresse: Hovedgaden 12, ES
+
+Match fundet med:
+William Brown, 011088
+Antal Aliaser: 2, Bedste alias: Alice S., Bedste alias match-procent:  23.07 %
+
+Navn Match: 100.00 %
+Alias Match:  15.37 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  66.34 %
+------------------------------------------------------------------------------------
+
+Kunde: William Brown
+Foedselsdag: 190394
+Adresse: Sondergade 10, ES
+
+Match fundet med:
+William Brown, 011088
+Antal Aliaser: 2, Bedste alias: Alice S., Bedste alias match-procent:  23.07 %
+
+Navn Match: 100.00 %
+Alias Match:  15.37 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  66.34 %
+------------------------------------------------------------------------------------
+
+Kunde: Olivia Johnson
+Foedselsdag: 080452
+Adresse: Norregade 2, DK
+
+Match fundet med:
+Olivia Johnson, 061885
+Antal Aliaser: 1, Bedste alias: A. Jensen, Bedste alias match-procent:  35.71 %
+
+Navn Match: 100.00 %
+Alias Match:  35.71 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  71.42 %
+------------------------------------------------------------------------------------
+
+Kunde: Sophia Davis
+Foedselsdag: 180796
+Adresse: Vestergade 15, FR
+
+Match fundet med:
+Sophia Davis, 110275
+Antal Aliaser: 2, Bedste alias: Ali Smith, Bedste alias match-procent:  16.66 %
+
+Navn Match: 100.00 %
+Alias Match:  12.49 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  68.12 %
+------------------------------------------------------------------------------------
+
+Kunde: Olivia Johnson
+Foedselsdag: 221070
+Adresse: Elm Street 5, GB
+
+Match fundet med:
+Olivia Johnson, 111178
+Antal Aliaser: 4, Bedste alias: A. Jensen, Bedste alias match-procent:  35.71 %
+
+Navn Match: 100.00 %
+Alias Match:  26.76 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  71.68 %
+------------------------------------------------------------------------------------
+
+Kunde: Sophia Davis
+Foedselsdag: 160987
+Adresse: Skovbakken 7, SE
+
+Match fundet med:
+Sophia Davis, 061885
+Antal Aliaser: 2, Bedste alias: Michael N., Bedste alias match-procent:  16.66 %
+
+Navn Match: 100.00 %
+Alias Match:   8.33 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  67.08 %
+------------------------------------------------------------------------------------
+
+Kunde: Michael Nielsen
+Foedselsdag: 131286
+Adresse: Rosenvej 3, NO
+
+Match fundet med:
+Michael Nilsen, 071590
+Antal Aliaser: 2, Bedste alias: Michael N., Bedste alias match-procent:  60.00 %
+
+Navn Match:  93.33 %
+Alias Match:  36.66 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  68.32 %
+------------------------------------------------------------------------------------
+
+Kunde: Olivia Johnson
+Foedselsdag: 150159
+Adresse: Hovedgaden 12, ES
+
+Match fundet med:
+Olivia Johnson, 022593
+Antal Aliaser: 1, Bedste alias: A. Jensen, Bedste alias match-procent:  35.71 %
+
+Navn Match: 100.00 %
+Alias Match:  35.71 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  71.42 %
+------------------------------------------------------------------------------------
+
+Kunde: Alexander Wilson
+Foedselsdag: 050993
+Adresse: Skovbakken 7, ES
+
+Match fundet med:
+Alexander Wilson, 071495
+Antal Aliaser: 3, Bedste alias: Anne J., Bedste alias match-procent:  25.00 %
+
+Navn Match: 100.00 %
+Alias Match:  18.73 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  69.68 %
+------------------------------------------------------------------------------------
+
+Kunde: Isabella Clark
+Foedselsdag: 060591
+Adresse: Parkvej 23, IT
+
+Match fundet med:
+Isabella Clark, 071590
+Antal Aliaser: 2, Bedste alias: Jonathan Doe, Bedste alias match-procent:   7.14 %
+
+Navn Match: 100.00 %
+Alias Match:   7.14 %
+Foedselsdag Match:  50.00 %
+Land Match: 100.00 %
+Total Match:  69.28 %
+------------------------------------------------------------------------------------
+
+Kunde: Isabella Clark
+Foedselsdag: 060591
+Adresse: Parkvej 23, IT
+
+Match fundet med:
+Isabella Clark, 071495
+Antal Aliaser: 4, Bedste alias: Ali Smith, Bedste alias match-procent:  14.28 %
+
+Navn Match: 100.00 %
+Alias Match:   8.92 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  67.22 %
+------------------------------------------------------------------------------------
+
+Kunde: Benjamin Moore
+Foedselsdag: 241156
+Adresse: Vestergade 15, US
+
+Match fundet med:
+Benjamin Moore, 111178
+Antal Aliaser: 2, Bedste alias: J. Doe, Bedste alias match-procent:  21.42 %
+
+Navn Match: 100.00 %
+Alias Match:  14.28 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  68.56 %
+------------------------------------------------------------------------------------
+
+Kunde: Lucas Rodriguez
+Foedselsdag: 111174
+Adresse: Parkvej 23, CA
+
+Match fundet med:
+Lucas Rodriguez, 011088
+Antal Aliaser: 1, Bedste alias: Johnny, Bedste alias match-procent:   6.66 %
+
+Navn Match: 100.00 %
+Alias Match:   6.66 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  66.66 %
+------------------------------------------------------------------------------------
+
+Kunde: Lucas Rodriguez
+Foedselsdag: 111174
+Adresse: Parkvej 23, CA
+
+Match fundet med:
+Lucas Rodriguez, 071495
+Antal Aliaser: 3, Bedste alias: J. Doe, Bedste alias match-procent:  20.00 %
+
+Navn Match: 100.00 %
+Alias Match:  15.54 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  66.38 %
+------------------------------------------------------------------------------------
+
+Kunde: William Brown
+Foedselsdag: 030196
+Adresse: Rosenvej 3, DE
+
+Match fundet med:
+William Brown, 051580
+Antal Aliaser: 4, Bedste alias: Alicia Smith, Bedste alias match-procent:  23.07 %
+
+Navn Match: 100.00 %
+Alias Match:  15.36 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  66.33 %
+------------------------------------------------------------------------------------
+
+Kunde: Emily Harris
+Foedselsdag: 180595
+Adresse: Rosenvej 3, NO
+
+Match fundet med:
+Emily Harris, 022593
+Antal Aliaser: 2, Bedste alias: Anna, Bedste alias match-procent:   8.33 %
+
+Navn Match: 100.00 %
+Alias Match:   4.16 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  66.03 %
+------------------------------------------------------------------------------------
+
+Kunde: Michael Nielsen
+Foedselsdag: 261052
+Adresse: Vestergade 15, NO
+
+Match fundet med:
+Michael Nilsen, 071590
+Antal Aliaser: 2, Bedste alias: Michael N., Bedste alias match-procent:  60.00 %
+
+Navn Match:  93.33 %
+Alias Match:  36.66 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  68.32 %
+------------------------------------------------------------------------------------
+
+Kunde: Benjamin Moore
+Foedselsdag: 151071
+Adresse: Maple Avenue 89, ES
+
+Match fundet med:
+Benjamin Moore, 111178
+Antal Aliaser: 2, Bedste alias: J. Doe, Bedste alias match-procent:  21.42 %
+
+Navn Match: 100.00 %
+Alias Match:  14.28 %
+Foedselsdag Match:  50.00 %
+Land Match:  50.00 %
+Total Match:  66.07 %
+------------------------------------------------------------------------------------
+
+Kunde: Isabella Clark
+Foedselsdag: 060469
+Adresse: Elm Street 5, SE
+
+Match fundet med:
+Isabella Clark, 071495
+Antal Aliaser: 5, Bedste alias: Anne J., Bedste alias match-procent:  14.28 %
+
+Navn Match: 100.00 %
+Alias Match:   8.54 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  67.13 %
+------------------------------------------------------------------------------------
+
+Kunde: Isabella Clark
+Foedselsdag: 060469
+Adresse: Elm Street 5, SE
+
+Match fundet med:
+Isabella Clark, 071590
+Antal Aliaser: 1, Bedste alias: Michael N., Bedste alias match-procent:  14.28 %
+
+Navn Match: 100.00 %
+Alias Match:  14.28 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  66.06 %
+------------------------------------------------------------------------------------
+
+Kunde: James White
+Foedselsdag: 250380
+Adresse: Rosenvej 3, DK
+
+Match fundet med:
+James White, 051580
+Antal Aliaser: 1, Bedste alias: John S., Bedste alias match-procent:  18.18 %
+
+Navn Match: 100.00 %
+Alias Match:  18.18 %
+Foedselsdag Match:  50.00 %
+Land Match: 100.00 %
+Total Match:  72.04 %
+------------------------------------------------------------------------------------
+
+Kunde: Mia Lewis
+Foedselsdag: 190671
+Adresse: Norregade 2, FR
+
+Match fundet med:
+Mia Lewis, 092982
+Antal Aliaser: 3, Bedste alias: Mike, Bedste alias match-procent:  33.33 %
+
+Navn Match: 100.00 %
+Alias Match:  22.22 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  68.05 %
+------------------------------------------------------------------------------------
+
+Kunde: William Brown
+Foedselsdag: 160673
+Adresse: Strandvejen 45, SE
+
+Match fundet med:
+William Brown, 011088
+Antal Aliaser: 5, Bedste alias: Alicia Smith, Bedste alias match-procent:  23.07 %
+
+Navn Match: 100.00 %
+Alias Match:  15.35 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  66.33 %
+------------------------------------------------------------------------------------
+
+Kunde: Olivia Johnson
+Foedselsdag: 060199
+Adresse: Maple Avenue 89, US
+
+Match fundet med:
+Olivia Johnson, 022593
+Antal Aliaser: 1, Bedste alias: A. Jensen, Bedste alias match-procent:  35.71 %
+
+Navn Match: 100.00 %
+Alias Match:  35.71 %
+Foedselsdag Match:  33.33 %
+Land Match:  50.00 %
+Total Match:  68.92 %
+------------------------------------------------------------------------------------
+
+Kunde: Olivia Johnson
+Foedselsdag: 060199
+Adresse: Maple Avenue 89, US
+
+Match fundet med:
+Olivia Johnson, 061885
+Antal Aliaser: 5, Bedste alias: Alicia Smith, Bedste alias match-procent:  35.71 %
+
+Navn Match: 100.00 %
+Alias Match:  18.54 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  69.63 %
+------------------------------------------------------------------------------------
+
+Kunde: Benjamin Moore
+Foedselsdag: 081272
+Adresse: Vestergade 15, GB
+
+Match fundet med:
+Benjamin Moore, 061885
+Antal Aliaser: 1, Bedste alias: Jon D., Bedste alias match-procent:  14.28 %
+
+Navn Match: 100.00 %
+Alias Match:  14.28 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  68.56 %
+------------------------------------------------------------------------------------
+
+Kunde: Michael Nielsen
+Foedselsdag: 110662
+Adresse: Strandvejen 45, SE
+
+Match fundet med:
+Michael Nilsen, 011088
+Antal Aliaser: 4, Bedste alias: Michael N., Bedste alias match-procent:  60.00 %
+
+Navn Match:  93.33 %
+Alias Match:  21.66 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  67.07 %
+------------------------------------------------------------------------------------
+
+Kunde: Sophia Davis
+Foedselsdag: 051081
+Adresse: Rosenvej 3, DE
+
+Match fundet med:
+Sophia Davis, 111178
+Antal Aliaser: 4, Bedste alias: Jon D., Bedste alias match-procent:  25.00 %
+
+Navn Match: 100.00 %
+Alias Match:  14.57 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  66.14 %
+------------------------------------------------------------------------------------
+
+Kunde: Lucas Rodriguez
+Foedselsdag: 010383
+Adresse: Norregade 2, DE
+
+Match fundet med:
+Lucas Rodriguez, 110275
+Antal Aliaser: 4, Bedste alias: Ali Smith, Bedste alias match-procent:  13.33 %
+
+Navn Match: 100.00 %
+Alias Match:   9.98 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  67.49 %
+------------------------------------------------------------------------------------
+
+Kunde: Lucas Rodriguez
+Foedselsdag: 030371
+Adresse: Rosenvej 3, FR
+
+Match fundet med:
+Lucas Rodriguez, 110275
+Antal Aliaser: 5, Bedste alias: Lisa Smith, Bedste alias match-procent:  26.66 %
+
+Navn Match: 100.00 %
+Alias Match:  11.98 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  67.99 %
+------------------------------------------------------------------------------------
+
+Kunde: Grace Walker
+Foedselsdag: 141060
+Adresse: Norregade 2, FR
+
+Match fundet med:
+Grace Walker, 011088
+Antal Aliaser: 4, Bedste alias: Alice S., Bedste alias match-procent:  25.00 %
+
+Navn Match: 100.00 %
+Alias Match:  14.57 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  68.64 %
+------------------------------------------------------------------------------------
+
+Kunde: James White
+Foedselsdag: 220666
+Adresse: Birkevej 7, CA
+
+Match fundet med:
+James White, 100377
+Antal Aliaser: 3, Bedste alias: John Smith, Bedste alias match-procent:  36.36 %
+
+Navn Match: 100.00 %
+Alias Match:  18.18 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  67.04 %
+------------------------------------------------------------------------------------
+
+Kunde: William Brown
+Foedselsdag: 231277
+Adresse: Strandvejen 45, SE
+
+Match fundet med:
+William Brown, 011088
+Antal Aliaser: 5, Bedste alias: Alicia Smith, Bedste alias match-procent:  23.07 %
+
+Navn Match: 100.00 %
+Alias Match:  15.35 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  66.33 %
+------------------------------------------------------------------------------------
+
+Kunde: James White
+Foedselsdag: 040660
+Adresse: Maple Avenue 89, ES
+
+Match fundet med:
+James White, 041265
+Antal Aliaser: 5, Bedste alias: J. Doe, Bedste alias match-procent:  27.27 %
+
+Navn Match: 100.00 %
+Alias Match:  12.71 %
+Foedselsdag Match:  50.00 %
+Land Match: 100.00 %
+Total Match:  70.67 %
+------------------------------------------------------------------------------------
+
+Kunde: Emily Harris
+Foedselsdag: 210484
+Adresse: Birkevej 7, GB
+
+Match fundet med:
+Emily Harris, 110275
+Antal Aliaser: 3, Bedste alias: Smith J., Bedste alias match-procent:  25.00 %
+
+Navn Match: 100.00 %
+Alias Match:  13.88 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  68.46 %
+------------------------------------------------------------------------------------
+
+Kunde: Benjamin Moore
+Foedselsdag: 210269
+Adresse: Elm Street 5, NO
+
+Match fundet med:
+Benjamin Moore, 032292
+Antal Aliaser: 4, Bedste alias: Annie J., Bedste alias match-procent:  21.42 %
+
+Navn Match: 100.00 %
+Alias Match:  14.27 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  66.06 %
+------------------------------------------------------------------------------------
+
+Kunde: Isabella Clark
+Foedselsdag: 040696
+Adresse: Hovedgaden 12, DE
+
+Match fundet med:
+Isabella Clark, 022593
+Antal Aliaser: 3, Bedste alias: Mikael, Bedste alias match-procent:  14.28 %
+
+Navn Match: 100.00 %
+Alias Match:  11.90 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  67.97 %
+------------------------------------------------------------------------------------
+
+Kunde: James White
+Foedselsdag: 040750
+Adresse: Vestergade 15, DK
+
+Match fundet med:
+James White, 051580
+Antal Aliaser: 1, Bedste alias: John S., Bedste alias match-procent:  18.18 %
+
+Navn Match: 100.00 %
+Alias Match:  18.18 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  69.54 %
+------------------------------------------------------------------------------------
+
+Kunde: Grace Walker
+Foedselsdag: 190495
+Adresse: Enghave 34, FR
+
+Match fundet med:
+Grace Walker, 011088
+Antal Aliaser: 4, Bedste alias: Alice S., Bedste alias match-procent:  25.00 %
+
+Navn Match: 100.00 %
+Alias Match:  14.57 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  66.14 %
+------------------------------------------------------------------------------------
+
+Kunde: William Brown
+Foedselsdag: 080194
+Adresse: Sondergade 10, CA
+
+Match fundet med:
+William Brown, 100377
+Antal Aliaser: 3, Bedste alias: Ali Smith, Bedste alias match-procent:  23.07 %
+
+Navn Match: 100.00 %
+Alias Match:  15.37 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  66.34 %
+------------------------------------------------------------------------------------
+
+Kunde: William Brown
+Foedselsdag: 050673
+Adresse: Hovedgaden 12, GB
+
+Match fundet med:
+William Brown, 100377
+Antal Aliaser: 5, Bedste alias: Alice S., Bedste alias match-procent:  23.07 %
+
+Navn Match: 100.00 %
+Alias Match:   7.67 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  66.91 %
+------------------------------------------------------------------------------------
+
+Kunde: Alice Smith
+Foedselsdag: 220297
+Adresse: Norregade 2, NO
+
+Match fundet med:
+Alicia Smith, 032292
+Antal Aliaser: 4, Bedste alias: Ali Smith, Bedste alias match-procent:  81.81 %
+
+Navn Match:  81.81 %
+Alias Match:  52.25 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  68.96 %
+------------------------------------------------------------------------------------
+
+Kunde: Alice Smith
+Foedselsdag: 220297
+Adresse: Norregade 2, NO
+
+Match fundet med:
+Alicia Smith, 022593
+Antal Aliaser: 1, Bedste alias: Alicia Smith, Bedste alias match-procent:  81.81 %
+
+Navn Match:  81.81 %
+Alias Match:  81.81 %
+Foedselsdag Match:  33.33 %
+Land Match:   0.00 %
+Total Match:  66.35 %
+------------------------------------------------------------------------------------
+
+Kunde: Lucas Rodriguez
+Foedselsdag: 050796
+Adresse: Sondergade 10, IT
+
+Match fundet med:
+Lucas Rodriguez, 051580
+Antal Aliaser: 2, Bedste alias: Lisa Smith, Bedste alias match-procent:  26.66 %
+
+Navn Match: 100.00 %
+Alias Match:  16.66 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  69.16 %
+------------------------------------------------------------------------------------
+
+Kunde: Sophia Davis
+Foedselsdag: 151278
+Adresse: Birkevej 7, ES
+
+Match fundet med:
+Sophia Davis, 110275
+Antal Aliaser: 4, Bedste alias: John Smith, Bedste alias match-procent:  25.00 %
+
+Navn Match: 100.00 %
+Alias Match:  16.65 %
+Foedselsdag Match:  50.00 %
+Land Match: 100.00 %
+Total Match:  71.66 %
+------------------------------------------------------------------------------------
+
+Kunde: Amelia Thomas
+Foedselsdag: 031156
+Adresse: Skovbakken 7, SE
+
+Match fundet med:
+Amelia Thomas, 071495
+Antal Aliaser: 5, Bedste alias: Lisa Smith, Bedste alias match-procent:  15.38 %
+
+Navn Match: 100.00 %
+Alias Match:   9.19 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  67.29 %
+------------------------------------------------------------------------------------
+
+Kunde: Sophia Davis
+Foedselsdag: 150853
+Adresse: Vestergade 15, FR
+
+Match fundet med:
+Sophia Davis, 110275
+Antal Aliaser: 2, Bedste alias: Ali Smith, Bedste alias match-procent:  16.66 %
+
+Navn Match: 100.00 %
+Alias Match:  12.49 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  68.12 %
+------------------------------------------------------------------------------------
+
+Kunde: Michael Nielsen
+Foedselsdag: 010858
+Adresse: Sondergade 10, NO
+
+Match fundet med:
+Michael Nilsen, 071590
+Antal Aliaser: 2, Bedste alias: Michael N., Bedste alias match-procent:  60.00 %
+
+Navn Match:  93.33 %
+Alias Match:  36.66 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  68.32 %
+------------------------------------------------------------------------------------
+
+Kunde: Lucas Miller
+Foedselsdag: 281283
+Adresse: Enghave 34, SE
+
+Match fundet med:
+Lucas Miller, 061885
+Antal Aliaser: 3, Bedste alias: Mikael, Bedste alias match-procent:  25.00 %
+
+Navn Match: 100.00 %
+Alias Match:  13.87 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  68.46 %
+------------------------------------------------------------------------------------
+
+Kunde: Emily Harris
+Foedselsdag: 171068
+Adresse: Enghave 34, GB
+
+Match fundet med:
+Emily Harris, 110275
+Antal Aliaser: 3, Bedste alias: Smith J., Bedste alias match-procent:  25.00 %
+
+Navn Match: 100.00 %
+Alias Match:  13.88 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  68.46 %
+------------------------------------------------------------------------------------
+
+Kunde: Lucas Miller
+Foedselsdag: 081075
+Adresse: Parkvej 23, DK
+
+Match fundet med:
+Lucas Miller, 041265
+Antal Aliaser: 2, Bedste alias: Alice S., Bedste alias match-procent:   8.33 %
+
+Navn Match: 100.00 %
+Alias Match:   8.32 %
+Foedselsdag Match:  50.00 %
+Land Match: 100.00 %
+Total Match:  69.58 %
+------------------------------------------------------------------------------------
+
+Kunde: Lucas Rodriguez
+Foedselsdag: 090674
+Adresse: Vestergade 15, CA
+
+Match fundet med:
+Lucas Rodriguez, 071495
+Antal Aliaser: 3, Bedste alias: J. Doe, Bedste alias match-procent:  20.00 %
+
+Navn Match: 100.00 %
+Alias Match:  15.54 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  66.38 %
+------------------------------------------------------------------------------------
+
+Kunde: Lucas Rodriguez
+Foedselsdag: 090674
+Adresse: Vestergade 15, CA
+
+Match fundet med:
+Lucas Rodriguez, 092982
+Antal Aliaser: 5, Bedste alias: J. Doe, Bedste alias match-procent:  20.00 %
+
+Navn Match: 100.00 %
+Alias Match:   9.32 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  67.32 %
+------------------------------------------------------------------------------------
+
+Kunde: Olivia Johnson
+Foedselsdag: 271281
+Adresse: Enghave 34, US
+
+Match fundet med:
+Olivia Johnson, 061885
+Antal Aliaser: 5, Bedste alias: Alicia Smith, Bedste alias match-procent:  35.71 %
+
+Navn Match: 100.00 %
+Alias Match:  18.54 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  69.63 %
+------------------------------------------------------------------------------------
+
+Kunde: Amelia Thomas
+Foedselsdag: 080360
+Adresse: Hovedgaden 12, NO
+
+Match fundet med:
+Amelia Thomas, 051580
+Antal Aliaser: 5, Bedste alias: Smith J., Bedste alias match-procent:  23.07 %
+
+Navn Match: 100.00 %
+Alias Match:  13.81 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  68.45 %
+------------------------------------------------------------------------------------
+
+Kunde: Amelia Thomas
+Foedselsdag: 080360
+Adresse: Hovedgaden 12, NO
+
+Match fundet med:
+Amelia Thomas, 011088
+Antal Aliaser: 1, Bedste alias: J. Doe, Bedste alias match-procent:  15.38 %
+
+Navn Match: 100.00 %
+Alias Match:  15.38 %
+Foedselsdag Match:  16.66 %
+Land Match: 100.00 %
+Total Match:  66.34 %
+------------------------------------------------------------------------------------
+
+Kunde: Grace Walker
+Foedselsdag: 010863
+Adresse: Hovedgaden 12, FR
+
+Match fundet med:
+Grace Walker, 011088
+Antal Aliaser: 4, Bedste alias: Alice S., Bedste alias match-procent:  25.00 %
+
+Navn Match: 100.00 %
+Alias Match:  14.57 %
+Foedselsdag Match:  50.00 %
+Land Match: 100.00 %
+Total Match:  71.14 %
+------------------------------------------------------------------------------------
+
+Kunde: James White
+Foedselsdag: 141197
+Adresse: Vestergade 15, FR
+
+Match fundet med:
+James White, 110275
+Antal Aliaser: 5, Bedste alias: J. Doe, Bedste alias match-procent:  27.27 %
+
+Navn Match: 100.00 %
+Alias Match:  12.71 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  68.17 %
+------------------------------------------------------------------------------------
+
+Kunde: Lucas Rodriguez
+Foedselsdag: 180876
+Adresse: Sondergade 10, DE
+
+Match fundet med:
+Lucas Rodriguez, 110275
+Antal Aliaser: 4, Bedste alias: Ali Smith, Bedste alias match-procent:  13.33 %
+
+Navn Match: 100.00 %
+Alias Match:   9.98 %
+Foedselsdag Match:  50.00 %
+Land Match: 100.00 %
+Total Match:  69.99 %
+------------------------------------------------------------------------------------
+
+Kunde: Lucas Rodriguez
+Foedselsdag: 180876
+Adresse: Sondergade 10, DE
+
+Match fundet med:
+Lucas Rodriguez, 100377
+Antal Aliaser: 4, Bedste alias: Lisa Smith, Bedste alias match-procent:  26.66 %
+
+Navn Match: 100.00 %
+Alias Match:  14.98 %
+Foedselsdag Match:  50.00 %
+Land Match:  50.00 %
+Total Match:  66.24 %
+------------------------------------------------------------------------------------
+
+Kunde: Lucas Miller
+Foedselsdag: 010594
+Adresse: Rosenvej 3, FR
+
+Match fundet med:
+Lucas Miller, 032292
+Antal Aliaser: 4, Bedste alias: J. Doe, Bedste alias match-procent:  16.66 %
+
+Navn Match: 100.00 %
+Alias Match:   8.32 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  67.07 %
+------------------------------------------------------------------------------------
+
+Kunde: Lucas Miller
+Foedselsdag: 210350
+Adresse: Vestergade 15, CA
+
+Match fundet med:
+Lucas Miller, 100377
+Antal Aliaser: 3, Bedste alias: Anne J., Bedste alias match-procent:   8.33 %
+
+Navn Match: 100.00 %
+Alias Match:   8.31 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  67.07 %
+------------------------------------------------------------------------------------
+
+Kunde: Lucas Miller
+Foedselsdag: 210350
+Adresse: Vestergade 15, CA
+
+Match fundet med:
+Lucas Miller, 110275
+Antal Aliaser: 3, Bedste alias: J. Doe, Bedste alias match-procent:  16.66 %
+
+Navn Match: 100.00 %
+Alias Match:   8.32 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  67.07 %
+------------------------------------------------------------------------------------
+
+Kunde: Daniel Martin
+Foedselsdag: 261064
+Adresse: Rosenvej 3, ES
+
+Match fundet med:
+Daniel Martin, 011088
+Antal Aliaser: 1, Bedste alias: Mickey, Bedste alias match-procent:   7.69 %
+
+Navn Match: 100.00 %
+Alias Match:   7.69 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  66.92 %
+------------------------------------------------------------------------------------
+
+Kunde: Emily Harris
+Foedselsdag: 170663
+Adresse: Enghave 34, GB
+
+Match fundet med:
+Emily Harris, 110275
+Antal Aliaser: 3, Bedste alias: Smith J., Bedste alias match-procent:  25.00 %
+
+Navn Match: 100.00 %
+Alias Match:  13.88 %
+Foedselsdag Match:  33.33 %
+Land Match: 100.00 %
+Total Match:  68.46 %
+------------------------------------------------------------------------------------
+
+Kunde: William Brown
+Foedselsdag: 140875
+Adresse: Hovedgaden 12, US
+
+Match fundet med:
+William Brown, 100377
+Antal Aliaser: 3, Bedste alias: Smith J., Bedste alias match-procent:  15.38 %
+
+Navn Match: 100.00 %
+Alias Match:   7.68 %
+Foedselsdag Match:  50.00 %
+Land Match: 100.00 %
+Total Match:  69.42 %
+------------------------------------------------------------------------------------
+
+

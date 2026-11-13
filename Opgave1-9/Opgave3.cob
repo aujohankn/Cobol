@@ -1,0 +1,51 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. OPGAVETO.
+
+       DATA DIVISION.
+       WORKING-STORAGE SECTION.
+       01 KUNDE-ID     PIC X(10) VALUE ZEROS.
+       01 KUNDE-FN     PIC X(20) VALUE SPACES.
+       01 KUNDE-EN     PIC X(20) VALUE SPACES.
+       01 KONTONR      PIC X(20) VALUE ZEROS.
+       01 BALANCE      PIC 9(7)V99 VALUE ZEROS.
+       01 VALUTA       PIC X(3) VALUE SPACES.
+
+       01 FULL-NAME    PIC X(40) VALUE SPACES.
+
+       01 INDEXVAR     PIC 9(3) VALUE 001.
+       01 INDEXVAR-OUT PIC 9(3) VALUE 001.
+
+       01 CURR-CHAR    PIC X(1) VALUE SPACE.
+       01 PREV-CHAR    PIC X(1) VALUE SPACE.
+
+       01 FULL-NAME-C  PIC X(40) VALUE SPACES.
+
+       PROCEDURE DIVISION.
+       MOVE 1234567890 TO KUNDE-ID
+       MOVE "Johan" TO KUNDE-FN
+       MOVE "K. Nielsen" TO KUNDE-EN
+       MOVE "DK000011112222333300" TO KONTONR
+       MOVE 420.69 TO BALANCE
+       MOVE "DKK" TO VALUTA
+
+       STRING KUNDE-FN DELIMITED BY SIZE
+           " " DELIMITED BY SIZE 
+           KUNDE-EN DELIMITED BY SIZE
+           INTO FULL-NAME
+
+       PERFORM VARYING INDEXVAR FROM 1 BY 1 UNTIL INDEXVAR > 40
+           MOVE CURR-CHAR TO PREV-CHAR
+           MOVE FULL-NAME(INDEXVAR:1) TO CURR-CHAR
+           IF CURR-CHAR NOT = SPACE OR PREV-CHAR NOT = SPACE
+               MOVE CURR-CHAR TO FULL-NAME-C(INDEXVAR-OUT:1)
+               ADD 1 TO INDEXVAR-OUT
+           END-IF
+       END-PERFORM
+
+       DISPLAY "-------------------------------------------------------"
+       DISPLAY "Kunde ID    : " KUNDE-ID
+       DISPLAY "Navn        : " FULL-NAME-C
+       DISPLAY "Kontonummer : " KONTONR
+       DISPLAY "Balance     : " BALANCE " " VALUTA
+       DISPLAY "-------------------------------------------------------"
+       STOP RUN.

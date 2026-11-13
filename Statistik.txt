@@ -1,0 +1,37 @@
+TOP 3 KUNDER
+1.  247-87-33004   Søren Larsen                   +     3,262,679.61 DKK
+2.  759-82-28075   Marie Andersen                 +     2,949,575.04 DKK
+3.  260-57-74612   Søren Andersen                 +     2,919,198.94 DKK
+
+TOP 5 BUTIKKER | OMSAETNING
+1. Tankstation           1,109,375,136.57 DKK
+2. Bageri                1,105,036,120.49 DKK
+3. Boghandel             1,100,434,449.15 DKK
+4. Blomsterhandler       1,099,824,094.10 DKK
+5. MÃ¸belbutik           1,099,027,337.49 DKK
+
+Maaned               | Indbetalinger     | Udbetalinger       | USD (DKK)         | EUR (DKK)         | DKK               | Hyppigste transaktion
+JANUAR               |    591,873,655.94 | -   601,419,997.45 |    521,617,207.29 |    597,292,214.41 |     74,384,231.69 | Udbetaling
+FEBRUAR              |    572,547,608.63 | -   531,693,111.26 |    499,825,513.96 |    532,453,831.46 |     71,961,374.47 | Udbetaling
+MARTS                |    595,026,064.47 | -   579,634,050.16 |    543,898,888.38 |    552,053,358.45 |     78,707,867.80 | Indbetaling
+APRIL                |    589,788,019.76 | -   596,267,542.90 |    532,342,124.57 |    577,847,189.28 |     75,866,248.81 | Overfoersel
+MAJ                  |    609,256,970.32 | -   618,526,074.72 |    555,105,188.01 |    592,153,273.00 |     80,524,584.03 | Overfoersel
+JUNI                 |    576,322,871.15 | -   594,869,766.74 |    528,299,831.45 |    567,156,101.36 |     75,736,705.08 | Indbetaling
+JULI                 |    607,028,975.84 | -   594,765,695.04 |    537,376,632.33 |    588,591,209.24 |     75,826,829.31 | Overfoersel
+AUGUST               |    610,844,979.49 | -   586,901,060.74 |    530,909,019.45 |    590,621,918.41 |     76,215,102.37 | Udbetaling
+SEPTEMBER            |    574,573,960.34 | -   562,426,245.82 |    493,244,413.98 |    563,104,129.11 |     80,651,663.07 | Overfoersel
+OCTOBER              |    597,375,966.63 | -   606,794,869.20 |    520,920,013.96 |    607,213,045.03 |     76,037,776.84 | Indbetaling
+NOVEMBER             |    534,764,280.99 | -   558,406,613.99 |    485,097,546.31 |    533,192,295.72 |     74,881,052.95 | Overfoersel
+DECEMBER             |    584,102,430.55 | -   586,610,455.78 |    507,308,196.04 |    586,178,099.54 |     77,226,590.75 | Indbetaling
+
+TOTAL TRANSACTIONS:   54994
+GROSS MONEY MOVED:          14,061,821,267.91 DKK
+AVERAGE TRANSACTION:              255,697.37 DKK
+MIN TRANSACTION:   -       749,900.25 DKK
+MAX TRANSACTION:          749,880.60 DKK
+SUM OF SQUARED DEVIATIONS: 2,753,589,612,899,131.11 DKK^2
+VARIANCE FOR ALL TRANSACTIONS:        50,070,727,950.30 DKK^2
+STANDARD DEVIATION:                 223,764.89 DKK
+TRANSACTIONS ABOVE MEAN:  11793
+TRANSACTIONS BELOW MEAN:  43201
+
